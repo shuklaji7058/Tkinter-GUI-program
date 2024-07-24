@@ -1,1 +1,1 @@
-# Tkinter-GUI-program
+# Tkinter & GUI-program
